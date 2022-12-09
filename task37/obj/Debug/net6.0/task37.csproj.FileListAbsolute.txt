@@ -1,0 +1,15 @@
+C:\CShurp\HomeWork5\task37\bin\Debug\net6.0\task37.exe
+C:\CShurp\HomeWork5\task37\bin\Debug\net6.0\task37.deps.json
+C:\CShurp\HomeWork5\task37\bin\Debug\net6.0\task37.runtimeconfig.json
+C:\CShurp\HomeWork5\task37\bin\Debug\net6.0\task37.dll
+C:\CShurp\HomeWork5\task37\bin\Debug\net6.0\task37.pdb
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\task37.csproj.AssemblyReference.cache
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\task37.GeneratedMSBuildEditorConfig.editorconfig
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\task37.AssemblyInfoInputs.cache
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\task37.AssemblyInfo.cs
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\task37.csproj.CoreCompileInputs.cache
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\task37.dll
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\refint\task37.dll
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\task37.pdb
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\task37.genruntimeconfig.cache
+C:\CShurp\HomeWork5\task37\obj\Debug\net6.0\ref\task37.dll
